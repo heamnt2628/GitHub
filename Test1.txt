@@ -1,0 +1,23 @@
+The very large number of beetle species poses special problems for classification. 
+Some families contain tens of thousands of species, and need to be divided into subfamilies and tribes. 
+Polyphaga is the largest suborder, containing more than 300,000 described species in more than 170 families, including rove beetles (Staphylinidae), scarab beetles (Scarabaeidae)
+, blister beetles (Meloidae), stag beetles (Lucanidae) and true weevils (Curculionidae).
+[10][47] These polyphagan beetle groups can be identified by the presence of cervical sclerites (hardened parts of the head used as points of attachment for muscles) absent in the other suborders.
+[48] Adephaga contains about 10 families of largely predatory beetles, includes ground beetles (Carabidae), water beetles (Dytiscidae) and whirligig beetles (Gyrinidae). 
+In these insects, the testes are tubular and the first abdominal sternum (a plate of the exoskeleton) is divided by the hind coxae (the basal joints of the beetle's legs).
+[49] Archostemata contains four families of mainly wood-eating beetles, including reticulated beetles (Cupedidae) and the telephone-pole beetle.
+[50] The Archostemata have an exposed plate called the metatrochantin in front of the basal segment or coxa of the hind leg.
+[51] Myxophaga contains about 65 described species in four families, mostly very small, including Hydroscaphidae and the genus Sphaerius.
+[52] The myxophagan beetles are small and mostly alga-feeders. 
+Their mouthparts are characteristic in lacking galeae and having a mobile tooth on their left mandible.[53]
+The consistency of beetle morphology, in particular their possession of elytra, has long suggested that Coleoptera is monophyletic, 
+though there have been doubts about the arrangement of the suborders, namely the Adephaga, Archostemata, Myxophaga and Polyphaga within that clade.
+[54][32][55][56][57] The twisted-wing parasites, Strepsiptera, are thought to be a sister group to the beetles, having split from them in the Early Permian.[56][58][59][60]
+Molecular phylogenetic analysis confirms that the Coleoptera are monophyletic. 
+Duane McKenna et al. (2015) used eight nuclear genes for 367 species from 172 of 183 Coleopteran families. 
+They split the Adephaga into 2 clades, Hydradephaga and Geadephaga, broke up the Cucujoidea into 3 clades, and placed the Lymexyloidea within the Tenebrionoidea. 
+The Polyphaga appear to date from the Triassic. 
+Most extant beetle families appear to have arisen in the Cretaceous.
+[60] The cladogram is based on McKenna (2015).
+[60] The number of species in each group (mainly superfamilies) is shown in parentheses, and boldface if over 10,000.
+[61] English common names are given where possible. Dates of origin of major groups are shown in italics in millions of years ago (mya).[61]
